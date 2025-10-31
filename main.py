@@ -19,7 +19,7 @@ from telegram.ext import (
 # ---------------------------
 # CONFIG (via env vars)
 # ---------------------------
-BOT_TOKEN = os.getenv("8423955356:AAEOfmiGaoHbYoLoZJREtWq_sb50dG5i9Xc")            # Bot token from BotFather
+BOT_TOKEN = os.getenv("8423955356:AAFT6lTDIMkMsFnLLSPotJYSVuY619Rh-Bc")            # Bot token from BotFather
 ADMIN_ID = int(os.getenv("ADMIN_ID", "5841736888"))   # Your Telegram user id (owner)
 SERVICE_URL = os.getenv("SERVICE_URL", "")   # e.g. https://your-app.onrender.com
 DATA_FILE = "data.json"
